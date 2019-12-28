@@ -14,5 +14,4 @@ Measurments gathered from the model is summrized as follows:
  - Accurecy: 96.29%
  - Precison: 83.95%
 - Recall: 75.55%
-- F1-score : 79.53%
-- 
+- F1-score : 79.53% 
