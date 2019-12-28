@@ -7,3 +7,12 @@ in the implementing of this smart system we used two models. First the standard 
  1. Upload the all the files in to the AWS notebook instance.
  2. Put the S3 bucket url into the notebook instance
  3. Run the notebook instance.
+
+# Results
+
+Measurments gathered from the model is summrized as follows:
+ - Accurecy: 96.29%
+ - Precison: 83.95%
+- Recall: 75.55%
+- F1-score : 79.53%
+- 
