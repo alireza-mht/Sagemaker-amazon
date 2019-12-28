@@ -10,7 +10,7 @@ in the implementing of this smart system we used two models. First the standard 
 
 # Results
 
-Measurments gathered from the model is summrized as follows:
+Measurments gathered from the model are summrized as follows:
  - Accurecy: 96.29%
  - Precison: 83.95%
 - Recall: 75.55%
